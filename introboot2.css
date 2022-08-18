@@ -1,0 +1,14 @@
+.mb-3{
+    margin-left: 5rem;
+}
+
+.btn{
+    margin-left: 80px;
+}
+.form-check {
+    display: block;
+    min-height: 1.5rem;
+    padding-left: 1.5em;
+    margin-bottom: .125rem;
+    margin-left: 4rem;
+}
